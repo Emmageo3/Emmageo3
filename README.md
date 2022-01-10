@@ -1,6 +1,6 @@
 ![MasterHead](http://4.bp.blogspot.com/-ZngAPjVDx8k/W_6GsG4HEHI/AAAAAAABYIY/_NLCny0jzkohpFi_XrBbIfrWOgtnPzOfACK4BGAYYCw/s1600/welcomee12.gif)
-<h1 align="center">Hi 👋, I'm Emma Geo Kanfany</h1>
-<h3 align="center">A passionate FullStack developer from Senegal</h3>
+<h1 align="center">Hi, I'm Emma Geo Kanfany</h1>
+<h3 align="center">A passionate FullStack developer from Senegal 🇸🇳</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/PX1doq1mxnYAAAAM/girl-hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmageo3&label=Profile%20views&color=0e75b6&style=flat" alt="emmageo3" /> </p>
