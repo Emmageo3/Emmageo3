@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, MYSQL**
 
-- 👨‍💻 All of my projects are available at [emmageo3.github.io/portfolio.github.io](emmageo3.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [emmageo3.github.io/portfolio](emmageo3.github.io/portfolio)
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, MYSQL**
 
