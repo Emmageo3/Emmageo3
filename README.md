@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmageo3&label=Profile%20views&color=0e75b6&style=flat" alt="emmageo3" /> </p>
 
-![GitHub stars](https://img.shields.io/github/stars/Emmageo3/Emmageo3.github.io) 
+![GitHub stars](https://img.shields.io/github/stars/Emmageo3) 
 
 <p align="left"> <a href="https://twitter.com/emmageo3" target="blank"><img src="https://img.shields.io/twitter/follow/emmageo3?logo=twitter&style=for-the-badge" alt="emmageo3" /></a> </p>
 
