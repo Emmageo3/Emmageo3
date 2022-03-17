@@ -60,13 +60,22 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmageo3&" alt="emmageo3" /></p>
 
-<h1 align="left">😉 Some Stats !📈</h1>
+<h2 align="left">Github Resume</h2>
+<div align="center">
 
-<p align="center">
-<a href="https://profile.codersrank.io/user/emmageo3/">
-  <img width="400"
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=emmageo3&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false"
-  />
-  </a>
+<a href="https://github.com/emmageo3">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=emmageo3&theme=redical" />
+</a>
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+<a href="">
+  <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=emmageo3&theme=onedark" />
+</a>
+</div>
 
 
