@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/emmageo3" target="blank"><img src="https://img.shields.io/twitter/follow/emmageo3?logo=twitter&style=for-the-badge" alt="emmageo3" /></a> </p>
 
-- 🌱 I’m currently learning **WORDPRESS**
+- 🌱 I’m currently learning **LARAVEL**
 
 - 👨‍💻 All of my projects are available at [emmageo3.github.io/portfolio](emmageo3.github.io/portfolio)
 
@@ -59,5 +59,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmageo3&show_icons=true&locale=en" alt="emmageo3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmageo3&" alt="emmageo3" /></p>
+
+<h1 align="left">😉 Some Stats !📈</h1>
+
+<p align="center">
+<a href="https://profile.codersrank.io/user/emmageo3/">
+  <img width="400"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=emmageo3&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false"
+  />
+  </a>
 
 
