@@ -29,27 +29,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg"/>
 
-<img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/reactivex.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/pwa.svg"/>
 
-<img width="40" src="https://cdn.svgporn.com/logos/java.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
 
-<img width="40" src="https://cdn.svgporn.com/logos/python.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/symfony.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/laravel.svg"/>
 
-<img width="40" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/dotnet.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/google-cloud.svg"/>
@@ -59,24 +48,16 @@
 <img width="40" src="https://cdn.svgporn.com/logos/digital-ocean.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
-<img width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/sass.svg"/>
 
-<img width="40" src="https://cdn.svgporn.com/logos/karma.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/protactor.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/jest.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/webstorm.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/insomnia.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/codersrank.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/figma.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/terminal.svg"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmageo3&show_icons=true&locale=en&layout=compact" alt="emmageo3" /></p>
