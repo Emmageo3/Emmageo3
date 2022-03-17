@@ -31,7 +31,6 @@
 <p align="left"> 
 
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/pwa.svg"/>
 
 
 
@@ -41,11 +40,6 @@
 
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
 
-<img width="40" src="https://cdn.svgporn.com/logos/google-cloud.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/google-analytics.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/netlify.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/heroku-icon.svg"/>
-<img width="40" src="https://cdn.svgporn.com/logos/digital-ocean.svg"/>
 
 <img width="40" src="https://cdn.svgporn.com/logos/firebase.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/mysql.svg"/>
