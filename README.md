@@ -36,6 +36,7 @@
 
 <img width="40" src="https://cdn.svgporn.com/logos/php.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/ruby.svg"/>
+<img width="40" src="https://cdn.svgporn.com/logos/rubyonrails.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
 <img width="40" src="https://cdn.svgporn.com/logos/laravel.svg"/>
 
