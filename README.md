@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/emmageo3" target="blank"><img src="https://img.shields.io/twitter/follow/emmageo3?logo=twitter&style=for-the-badge" alt="emmageo3" /></a> </p>
 
-- 🌱 I’m currently learning **LARAVEL**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 All of my projects are available at [emmageo3.github.io/portfolio](emmageo3.github.io/portfolio)
 
