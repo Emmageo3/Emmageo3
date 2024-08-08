@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [emmageo3.github.io/portfolio](emmageo3.github.io/portfolio)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, MYSQL**
+- 💬 Ask me about **Ruby on rails, NextJS, ReactJS**
 
 - 📫 How to reach me **kanfanyemma22@gmail.com**
 
