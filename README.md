@@ -7,7 +7,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Emmageo3) 
 
-<p align="center"> <a href="https://twitter.com/emmageo3" target="blank"><img src="https://img.shields.io/twitter/follow/emmageo3?logo=twitter&style=for-the-badge" alt="emmageo3" /></a> </p>
+<p align="center"> <a href="https://twitter.com/emmageo64" target="blank"><img src="https://img.shields.io/twitter/follow/emmageo64?logo=twitter&style=for-the-badge" alt="emmageo64" /></a> </p>
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/emmageo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmageo3" height="30" width="40" /></a>
+<a href="https://twitter.com/emmageo64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmageo64" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emma geo kanfany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emma geo kanfany" height="30" width="40" /></a>
 <a href="https://fb.com/emma geo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emma geo" height="30" width="40" /></a>
 <a href="https://discord.gg/emmageo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="emmageo3" height="30" width="40" /></a>
